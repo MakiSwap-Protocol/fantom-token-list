@@ -1,0 +1,94 @@
+{
+  "name": "makiswap",
+  "timestamp": "2021-06-01T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/heco-token-list/main/src/tokens/maki.png",
+  "keywords": [
+    "makiswap",
+    "maki",
+    "fantom",
+    "erc20",
+    "default",
+    "token",
+    "list"
+  ],
+  "tokens": [
+  
+    {
+      "address": "0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5",
+      "chainId": 250,
+      "name": "MakiSwap",
+      "symbol": "MAKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5/logo.png"
+    },
+
+    {
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 250,
+      "name": "Wrapped Fantom",
+      "symbol": "wFTM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+    },
+
+    {
+      "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+      "chainId": 250,
+      "name": "Fantom USD",
+      "symbol": "fUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0xad84341756bf337f5a0164515b1f6f993d194e1f/logo.png"
+    },
+
+    {
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
+    },
+
+    {
+      "address": "0xa649a19423052dc6b320360b3c760884e095ac57",
+      "chainId": 250,
+      "name": "FLINK",
+      "symbol": "fLINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0xa649a19423052dc6b320360b3c760884e095ac57/logo.png"
+    },
+
+    {
+      "address": "0xFa0cA21dA6A94623d953034f140372613F102346",
+      "chainId": 250,
+      "name": "HECO MakiSwap",
+      "symbol": "hMAKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0xFa0cA21dA6A94623d953034f140372613F102346/logo.png"
+    },
+
+    {
+      "address": "0x07752dfa1aF06063dCc6c986B717c71e9E06a827",
+      "chainId": 250,
+      "name": "SOY",
+      "symbol": "SOY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x07752dfa1aF06063dCc6c986B717c71e9E06a827/logo.png"
+    },
+
+    {
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250,
+      "name": "wETH",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
+    }
+
+  ]
+}
